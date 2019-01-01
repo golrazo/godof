@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'godoRounded';
+    src: url('godoRoundedR.eot');
+    src: url('godoRoundedR.eot?#iefix') format('embedded-opentype'),
+        url('godoRoundedR.woff') format('woff'),
+        url('godoRoundedR.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'godoRounded';
+    src: url('godoRoundedL.eot');
+    src: url('godoRoundedL.eot?#iefix') format('embedded-opentype'),
+        url('godoRoundedL.woff') format('woff'),
+        url('godoRoundedL.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
