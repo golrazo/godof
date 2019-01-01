@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Godo';
+    src: url('GodoM.eot');
+    src: url('GodoM.eot?#iefix') format('embedded-opentype'),
+        url('GodoM.woff') format('woff'),
+        url('GodoM.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Godo';
+    src: url('GodoB.eot');
+    src: url('GodoB.eot?#iefix') format('embedded-opentype'),
+        url('GodoB.woff') format('woff'),
+        url('GodoB.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
